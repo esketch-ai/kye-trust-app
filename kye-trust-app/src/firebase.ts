@@ -6,7 +6,7 @@ import { getStorage } from 'firebase/storage';
 import { getFunctions } from 'firebase/functions'; // Import getFunctions
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDKwEW6beMinv7Htwt59Ue2cPuzkhrJkR0",
+  apiKey: "your api key",
   authDomain: "kye-trust-app.firebaseapp.com",
   projectId: "kye-trust-app",
   storageBucket: "kye-trust-app.firebasestorage.app",
